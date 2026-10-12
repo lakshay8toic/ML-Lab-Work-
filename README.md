@@ -9,5 +9,7 @@ Machine Learning lab notebooks : **Lakshay** (AP24110010677), B.Tech CSE (AI/ML)
 | 3 | Matplotlib & Seaborn visualisation | [03_Matplotlib_Seaborn](03_Matplotlib_Seaborn) |
 | 4 | k-Nearest Neighbours on Iris (seed 77) | [04_KNN_Iris](04_KNN_Iris) |
 | 5 | Decision Tree (ID3) : PlayTennis | [05_Decision_Tree_ID3](05_Decision_Tree_ID3) |
+| 6 | Covariance & Correlation (pair + matrices) : Iris | [Lab6_Covariance_Correlation.ipynb](Lab6_Covariance_Correlation.ipynb) |
+| 7 | Principal Component Analysis : Iris | [Lab7_PCA.ipynb](Lab7_PCA.ipynb) |
 
 Open any `.ipynb` directly on GitHub or in Google Colab.
