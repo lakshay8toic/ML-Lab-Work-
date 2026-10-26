@@ -13,5 +13,6 @@ Machine Learning lab notebooks : **Lakshay** (AP24110010677), B.Tech CSE (AI/ML)
 | 7 | Simple Linear Regression : hours studied vs marks (hand calculation + sklearn, R² / RMSE / MAE) | [Lab7_Simple_Linear_Regression.ipynb](Lab7_Simple_Linear_Regression.ipynb) |
 | 8 | Multiple Linear Regression : study + sleep hours vs marks, β = (XᵀX)⁻¹Xᵀy (calculation + sklearn) | [Lab8_Multiple_Linear_Regression.ipynb](Lab8_Multiple_Linear_Regression.ipynb) |
 | 9 | Polynomial Regression : 2nd-order fit on hours vs grade points (normal equations + sklearn) | [Lab9_Polynomial_Regression.ipynb](Lab9_Polynomial_Regression.ipynb) |
+| 10 | PCA : Wine Quality dataset, 13 features → 2 (from scratch + sklearn, lab questions) | [Lab10_PCA](Lab10_PCA) |
 
 Open any `.ipynb` directly on GitHub or in Google Colab.
