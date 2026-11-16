@@ -14,5 +14,6 @@ Machine Learning lab notebooks : **Lakshay** (AP24110010677), B.Tech CSE (AI/ML)
 | 8 | Multiple Linear Regression : study + sleep hours vs marks, β = (XᵀX)⁻¹Xᵀy (calculation + sklearn) | [Lab8_Multiple_Linear_Regression.ipynb](Lab8_Multiple_Linear_Regression.ipynb) |
 | 9 | Polynomial Regression : 2nd-order fit on hours vs grade points (normal equations + sklearn) | [Lab9_Polynomial_Regression.ipynb](Lab9_Polynomial_Regression.ipynb) |
 | 10 | PCA : Wine Quality dataset, 13 features → 2 (from scratch + sklearn, lab questions) | [Lab10_PCA](Lab10_PCA) |
+| CLA-3 | Case Study : Sentiment Analysis of Social Media Using Machine Learning (Report & Presentation) | [CLA-3_AP24110010677_CaseStudy](CLA-3_AP24110010677_CaseStudy) |
 
 Open any `.ipynb` directly on GitHub or in Google Colab.
